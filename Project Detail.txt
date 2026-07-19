@@ -1,0 +1,12 @@
+Project Detail
+AI based trip planner system
+plan a trip for any city worldwide with real time data
+
+Thing required Module design
+1 Real time weather info
+2 Attraction & activity
+3 Hotel Cost
+4 Currency Conversion
+5 Itenary planing
+6 Total Expense
+7 Generate the summary
